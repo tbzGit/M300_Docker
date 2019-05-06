@@ -1,0 +1,60 @@
+body
+{
+	background-color:#C0C0C0;
+	text-align:center;
+}
+a{
+	text-decoration:none;
+	color:#6F0606;
+}
+td,th
+{
+	width: 500px;
+}
+table
+{
+	text-align:left;
+	margin:auto;
+}
+a:hover
+{
+	font-style:italic;
+}
+
+a:link
+{
+	color:#6F0606;
+	font-weight:bold;
+	font-size:30px;
+}
+
+.title
+{
+	text-align:center;
+	font-size:60px;
+	font-family: 'Sofia', cursive;
+	color:#6F0606;
+}
+
+.untertitel
+{
+	font-size:30px;
+	color:#C0C0C0;
+}
+.container
+{
+	width:50%;
+	margin:10px auto;
+	padding:20px;
+	height: 500px;
+	background-color: #6F0606;
+}
+.table
+{
+	color:#C0C0C0;
+}
+
+#logo{
+	width: 210px;
+	height: 200px;
+}
